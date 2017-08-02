@@ -14,38 +14,41 @@ Unit 3 : Data Modeling | Lesson 4 : Logistic Regression
 | Source Materials | Original files used to create this lesson | [Here](./assets/slides/) |
 | Extra Materials | Examples of Logistic Regression Implementation | [Here](./assets/examples/) |
 
+The datasets are used because they are familiar datasets from previous lessons and have binary targets for logistic regression.
 
 ---
 
 ## Learning Objectives
-- **Recall** how to perform linear regression in scikit-learn
-- **Demonstrate** why logistic regression is a better alternative for classification than linear regression
-- **Understand** the concept of probability, odds, e, log, and log-odds in relation to machine learning
-- **Explain** how logistic regression works
-- **Interpret** logistic regression coefficients
-- **Use** logistic regression with categorical features
-- **Compare** logistic regression with other models
-- **Utilize** different metrics for evaluating classifier models
-- **Construct** a confusion matrix based on predicted classes
+- Recall how to perform linear regression in scikit-learn.
+- Demonstrate why logistic regression is a better alternative for classification than linear regression.
+- Understand the concepts of probability, odds, e, log, and log-odds in relation to machine learning.
+- Explain how logistic regression works.
+- Interpret logistic regression coefficients.
+- Use logistic regression with categorical features.
+- Compare logistic regression with other models.
+- Utilize different metrics for evaluating classifier models.
+- Construct a confusion matrix based on predicted classes.
 
 ---
 
 ## Lesson Outline
 
-- Refresher: Fitting and Visualizing a Linear Regression using scikit-learn
-- Refresher: Interpreting Linear Regression Coefficients
-- Predicting a Categorical Response
-- Using logistic regression for classification
-- Probability, odds ratio, e, log, and log-odds
-  - Understanding e and the natural logarithm
-  - The log-odds ratio
-- What is Logistic Regression?
-- Interpreting Logistic Regression Coefficients
-- Using Logistic Regression with Categorical Features
-- Comparing Logistic Regression to Other Models
-- Advanced Classifcation Metrics
-  - Accuracy, True Positive Rate, and False Negative Rate
-  - The accuracy paradox
+TOTAL (170 min)
+- Refresher: Fitting and Visualizing a Linear Regression using scikit-learn (20 min)
+- Refresher: Interpreting Linear Regression Coefficients (15 min)
+- Predicting a Categorical Response (15 min)
+- Using logistic regression for classification (10 min)
+- Probability, odds ratio, e, log, and log-odds (30 min)
+  - Understanding e and the natural logarithm (20 min)
+  - The log-odds ratio (10 min)
+- What is Logistic Regression? (10 min)
+- Interpreting Logistic Regression Coefficients (20 min)
+- Using Logistic Regression with Categorical Features (15 min)
+- Comparing Logistic Regression to Other Models (10 min)
+- Advanced Classifcation Metrics (25 min)
+  - Accuracy, True Positive Rate, and False Negative Rate (15 min)
+  - The accuracy paradox (10 min)
+- OPTIONAL: How Many Samples Are Needed?
 - Lesson Review
 
 ---
