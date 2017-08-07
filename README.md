@@ -10,9 +10,9 @@ Unit 3 : Data Modeling | Lesson 4 : Logistic Regression
 | Lesson | Logistic Regression | [Here](./logistic-regression-starter.ipynb) |
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/logistic-regression-solution.ipynb) |
 | Datasets | College Admissions Data | [Here](./assets/dataset/admissions.csv) |
-| Datasets | Titanic Survivors (CSV): Passenger/survival info (used in examples only) | [Here](./data/titanic.csv) |
+| Datasets | Titanic Survivors (CSV): Passenger/survival info (used in examples only) | [Here](./assets/dataset/titanic.csv) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/slides/) |
-| Extra Materials | Examples of Logistic Regression Implementation | [Here](./assets/examples/) |
+| Extra Materials | Examples of Logistic Regression Implementation | [Here](./examples/) |
 
 The datasets are used because they are familiar datasets from previous lessons and have binary targets for logistic regression.
 
