@@ -19,15 +19,15 @@ The datasets are used because they are familiar datasets from previous lessons a
 ---
 
 ## Learning Objectives
-- Recall how to perform linear regression in scikit-learn.
-- Demonstrate why logistic regression is a better alternative for classification than linear regression.
-- Understand the concepts of probability, odds, e, log, and log-odds in relation to machine learning.
-- Explain how logistic regression works.
-- Interpret logistic regression coefficients.
-- Use logistic regression with categorical features.
-- Compare logistic regression with other models.
-- Utilize different metrics for evaluating classifier models.
-- Construct a confusion matrix based on predicted classes.
+- **Recall** how to perform linear regression in scikit-learn.
+- **Demonstrate** why logistic regression is a better alternative for classification than linear regression.
+- **Understand** the concepts of probability, odds, e, log, and log-odds in relation to machine learning.
+- **Explain** how logistic regression works.
+- **Interpret** logistic regression coefficients.
+- **Use** logistic regression with categorical features.
+- **Compare** logistic regression with other models.
+- **Utilize** different metrics for evaluating classifier models.
+- **Construct** a confusion matrix based on predicted classes.
 
 ---
 
