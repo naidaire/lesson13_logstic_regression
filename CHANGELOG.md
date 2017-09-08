@@ -4,9 +4,9 @@ _Editor: Sam Stack_
 
 - Added CHANGELOG.md 
 
-- 
+- File name reformatting, and restructuring of file systems
 
 
 ### v0.0
 
-_Author: _
+_Author: Sam Stack (Lab: LR Bank Marketing and MultiVar LR), Joseph Nelson & Kiefer Katovich(Lab: Predicting Site Greenness_
