@@ -17,11 +17,13 @@
 | Extra Materials | Examples of Logistic Regression Implementation | [Here](./examples/) |
 | Labs | Bank Marketing Lab and Multi-LogReg using Iris Lab | [Here](./labs/) |
 
-The datasets are used because they are familiar datasets from previous lessons and have binary targets for logistic regression.
+> These datasets were chosen because they are familiar datasets from previous lessons and have binary targets for logistic regression.
 
 ---
 
 ## Learning Objectives
+
+After this lesson, students will be able to:
 - **Recall** how to perform linear regression in scikit-learn.
 - **Demonstrate** why logistic regression is a better alternative for classification than linear regression.
 - **Understand** the concepts of probability, odds, e, log, and log-odds in relation to machine learning.
@@ -33,6 +35,17 @@ The datasets are used because they are familiar datasets from previous lessons a
 - **Construct** a confusion matrix based on predicted classes.
 
 ---
+
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Load in and perform basic analysis and manipulation on data in Pandas 
+- Build and interpret a linear regression model
+- Explain the basics of probability
+- Distinguish between continuous and categorical variables
+- Understand the bias-variance tradeoff and use confusion matrices to tune this balance
+
+----
 
 ## Lesson Outline
 
@@ -55,18 +68,6 @@ TOTAL (170 min)
 - Lesson Review
 
 ---
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Load in and perform basic analysis and manipulation on data in Pandas 
-- Build and interpret a linear regression model
-- Explain the basics of probability
-- Distinguish between continuous and categorical variables
-- Understand the bias-variance tradeoff and use confusion matrices to tune this balance
-
-----
 
 ## Additional Resources
 
