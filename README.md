@@ -1,5 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Logistic-Regression
-Unit 3 : Data Modeling | Lesson 4 : Logistic Regression
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Logistic Regression
+
+> Unit 3: Required
 
 ---
 
