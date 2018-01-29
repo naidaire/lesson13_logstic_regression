@@ -49,7 +49,7 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-TOTAL (170 min)
+> TOTAL (170 min)
 - Refresher: Fitting and Visualizing a Linear Regression using scikit-learn (20 min)
 - Refresher: Interpreting Linear Regression Coefficients (15 min)
 - Predicting a Categorical Response (15 min)
